@@ -586,6 +586,7 @@
 				DEVELOPMENT_TEAM = BL3GGVA2PM;
 				GCC_PREFIX_HEADER = "$(SRCROOT)/LXQQSlide/PrefixHeader.pch";
 				INFOPLIST_FILE = LXQQSlide/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "--.LXQQSlide";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -599,6 +600,7 @@
 				DEVELOPMENT_TEAM = BL3GGVA2PM;
 				GCC_PREFIX_HEADER = "$(SRCROOT)/LXQQSlide/PrefixHeader.pch";
 				INFOPLIST_FILE = LXQQSlide/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "--.LXQQSlide";
 				PRODUCT_NAME = "$(TARGET_NAME)";
